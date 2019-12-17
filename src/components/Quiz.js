@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import { CSSTransitionGroup } from 'react-transition-group';
 import Question from '../components/Question';
 import QuestionCount from '../components/QuestionCount';
-import AnswerOption from '../components/AnswerOption';
+import AnswerOption from './Option';
 
 function Quiz(props) {
   function renderAnswerOptions(key) {

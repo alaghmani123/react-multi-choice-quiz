@@ -1,86 +1,121 @@
 var quizQuestions = [
   {
-      question: "What franchise would you rather play a game from?",
+      question: "If you were trapped on an island, would you rather resort to cannibalism or die of starvation?",
       answers: [
           {
-              type: "Microsoft",
-              content: "Halo"
+              type: "You are haunted jk :) you are Tough",
+              content: "cannibalism"
           },
           {
-              type: "Nintendo",
-              content: "Pokemon"
+              type: "You are tough",
+              content: "Starvation"
           },
           {
-              type: "Sony",
-              content: "Uncharted"
+              type: "you are easily scared",
+              content: "I can't decide"
+          }
+          
+      ]
+  },
+  {
+      question: "Would you rather know the date of your death or the cause of your death?",
+      answers: [
+          {
+              type: "you are easily scared",
+              content: "none.."
+          },
+          {
+              type: "You are tough",
+              content: "Cause.."
+          },
+          {
+              type: "You are haunted jk you are Tough",
+              content: "Date.."
           }
       ]
   },
   {
-      question: "Which console would you prefer to play with friends?",
+      question: "Would you ever stay the night in an abandoned house that everyone claims is haunted?",
       answers: [
           {
-              type: "Microsoft",
-              content: "X-Box"
+              type: "you are easily scared",
+              content: "No"
           },
           {
-              type: "Nintendo",
-              content: "Nintendo 64"
+              type: "You are tough",
+              content: "Yes but not alone"
           },
           {
-              type: "Sony",
-              content: "Playstation 1"
+              type: "You are haunted jk you are Tough",
+              content: "yes all by myself"
           }
       ]
   },
   {
-      question: "Which of these racing franchises would you prefer to play a game from?",
-      answers: [
-          {
-              type: "Microsoft",
-              content: "Forza"
-          },
-          {
-              type: "Nintendo",
-              content: "Mario Kart"
-          },
-          {
-              type: "Sony",
-              content: "Gran Turismo"
-          }
-      ]
-  },
+    question: "Would you sleep inside of a coffin for a night?",
+    answers: [
+        {
+            type: "you are easily scared",
+            content: "No"
+        },
+        {
+            type: "You are tough",
+            content: "Yes"
+        },
+        {
+            type: "You are haunted jk you are Tough",
+            content: "Only if paid"
+        }
+    ]
+},
+{
+    question: "Have you ever walked through a graveyard (or a forest) late at night?",
+    answers: [
+        {
+            type: "you are easily scared",
+            content: "No"
+        },
+        {
+            type: "You are tough",
+            content: "Yes"
+        },
+        {
+            type: "You are haunted jk you are Tough",
+            content: "yes, alone by myself.."
+        }
+    ]
+},
+{
+    question: "Are you afraid of clowns?",
+    answers: [
+        {
+            type: "you are easily scared",
+            content: "Yes"
+        },
+        {
+            type: "You are tough",
+            content: "No"
+        },
+        {
+            type: "You are haunted jk you are Tough",
+            content: "what no, shut up!"
+        }
+    ]
+},
   {
-      question: "Which of these games do you think is best?",
+      question: "Have you ever had an unexplainable experience with the supernatural?",
       answers: [
           {
-              type: "Microsoft",
-              content: "BioShock"
+              type: "you are easily scared",
+              content: "Yes"
           },
           {
-              type: "Nintendo",
-              content: "The Legend of Zelda: Ocarina of Time"
+              type: "You are tough",
+              content: "I dont remember"
           },
           {
-              type: "Sony",
-              content: "Final Fantasy VII"
-          }
-      ]
-  },
-  {
-      question: "What console would you prefer to own?",
-      answers: [
-          {
-              type: "Microsoft",
-              content: "X-Box One"
-          },
-          {
-              type: "Nintendo",
-              content: "Wii U"
-          },
-          {
-              type: "Sony",
-              content: "Playstation 4"
+              type: "You are haunted jk you are Tough",
+              content: "Mulitiple times"
           }
       ]
   }
